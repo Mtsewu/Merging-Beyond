@@ -1,0 +1,72 @@
+body {
+    background-color: white;
+    margin: 0px;
+    
+}
+header 
+{
+background-color: gold;
+margin-bottom: 100px;
+height: 50px;
+padding-top: 0px;
+}
+
+
+.parent
+{
+    display: flex;
+    padding : 0px 0px;
+    
+    /*border: solid 10px greenyellow;*/
+    
+    
+   
+}
+.column
+{
+    
+    margin: 0px 20px ;
+    /* border: solid 10px pink; */
+}
+
+.p
+{ 
+    text-align: justify;
+}
+
+.logo2
+{
+    display: block;
+    width: 500px;
+    margin-right:auto;
+    margin-left:auto;
+   
+    
+}
+.about
+{
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    
+}
+
+
+
+
+footer
+{
+    background-color: gold;
+    display: flex;
+    border-top: groove 5px palevioletred;
+}
+.footerkids
+{
+    display: block;
+    margin-left: 20px;
+    margin-right:20px;
+    
+}
+
