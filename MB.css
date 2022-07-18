@@ -73,3 +73,19 @@ footer
     width: 40px;
     height: 40px;
 }
+.row
+{
+    display: flex;
+}
+.column1
+{
+    background-color: blue;
+    flex: 25%;
+    height: 800px;
+    
+}
+.column2
+{
+    background-color: gold;
+    flex: 75%;
+}
